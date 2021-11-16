@@ -1,0 +1,3 @@
+(#:name cli-command
+ #:repo "racket-templates/cli-command"
+ #:from github)

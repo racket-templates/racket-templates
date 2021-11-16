@@ -1,0 +1,4 @@
+(#:name raco-command
+ #:repo "racket-templates/raco-command"
+ #:from github)
+

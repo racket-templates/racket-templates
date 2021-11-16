@@ -1,0 +1,4 @@
+(#:name template
+ #:repo "racket-templates/template"
+ #:from github)
+

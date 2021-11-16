@@ -1,0 +1,4 @@
+(#:name rosette
+ #:repo "racket-templates/rosette-template"
+ #:from github)
+
