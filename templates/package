@@ -1,4 +1,4 @@
-(#:name package
- #:repo "racket-templates/package"
- #:from github)
+(name package
+ repo "racket-templates/package"
+ from github)
 

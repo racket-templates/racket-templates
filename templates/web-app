@@ -1,4 +1,4 @@
-(#:name web-app
- #:repo "racket-templates/web-app"
- #:from github)
+(name web-app
+ repo "racket-templates/web-app"
+ from github)
 

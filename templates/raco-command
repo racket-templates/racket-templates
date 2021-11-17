@@ -1,4 +1,4 @@
-(#:name raco-command
- #:repo "racket-templates/raco-command"
- #:from github)
+(name raco-command
+ repo "racket-templates/raco-command"
+ from github)
 

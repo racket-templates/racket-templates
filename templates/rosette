@@ -1,4 +1,4 @@
-(#:name rosette
- #:repo "racket-templates/rosette-template"
- #:from github)
+(name rosette
+ repo "racket-templates/rosette-template"
+ from github)
 

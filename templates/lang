@@ -1,4 +1,4 @@
-(#:name lang
- #:repo "racket-templates/lang"
- #:from github)
+(name lang
+ repo "racket-templates/lang"
+ from github)
 

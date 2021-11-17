@@ -1,5 +1,5 @@
-(#:name ppict-slideshow
- #:repo "racket-templates/ppict-slideshow-template"
- #:from github)
+(name ppict-slideshow
+ repo "racket-templates/ppict-slideshow-template"
+ from github)
 
 
