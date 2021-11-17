@@ -1,4 +1,4 @@
-# Racket-template-archive
+# Racket templates
 The Racket-templates archive for finding, uploading, and cloning templates.
 
 ## Using templates 
