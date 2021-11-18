@@ -1,4 +1,5 @@
 (name rosette
  repo "racket-templates/rosette-template"
- from github)
+ from github
+ desc "A #lang rosette template for program verification and synthesis.")
 

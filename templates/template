@@ -1,4 +1,5 @@
 (name template
  repo "racket-templates/template"
- from github)
+ from github
+ desc "A template for creating a new Racket template.")
 

@@ -1,4 +1,5 @@
 (name lang
  repo "racket-templates/lang"
- from github)
+ from github
+ desc "A #lang template - a language of combinators and numeric constants, implemented in Racket.")
 

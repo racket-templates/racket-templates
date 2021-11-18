@@ -1,3 +1,4 @@
 (name cli-command
  repo "racket-templates/cli-command"
- from github)
+ from github
+ desc "A working example of CLI command you can use to create your own command line app.")

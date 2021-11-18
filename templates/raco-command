@@ -1,4 +1,5 @@
 (name raco-command
  repo "racket-templates/raco-command"
- from github)
+ from github
+ desc "Raco tool for cloning templates from the racket-templates org")
 

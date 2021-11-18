@@ -1,4 +1,5 @@
 (name package
  repo "racket-templates/package"
- from github)
+ from github
+ desc "My personal template repository for Racket packages")
 

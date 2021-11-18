@@ -1,4 +1,5 @@
 (name gui-app
  repo "racket-templates/gui-app"
- from github)
+ from github
+ desc "Demonstration gui app for use as a starter template")
 
