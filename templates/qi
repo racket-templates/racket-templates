@@ -1,4 +1,4 @@
 (name qi
- repo "countvajhula/qi-template"
+ repo "countvajhula/qi-tutorial"
  from github
- desc "An application using the Qi language containing a short tutorial.")
+ desc "An interactive tutorial for the Qi language.")
