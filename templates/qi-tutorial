@@ -1,4 +1,4 @@
-(name qi
+(name qi-tutorial
  repo "countvajhula/qi-tutorial"
  from github
  desc "An interactive tutorial for the Qi language.")
