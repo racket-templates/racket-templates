@@ -1,4 +1,4 @@
-(name project
+(name library
  repo "countvajhula/racket-library"
  from github
  desc "A project template for a Racket library, using the lib/test/doc organization scheme. This template employs many best practices including automated testing, coverage reporting, and Makefile-driven workflows.")
