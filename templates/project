@@ -1,0 +1,4 @@
+(name project
+ repo "countvajhula/racket-project"
+ from github
+ desc "A project template for a single-collection Racket package. It employs many best practices including automated testing, coverage reporting, and Makefile-driven workflows.")
