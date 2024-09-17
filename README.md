@@ -4,7 +4,7 @@ The Racket-templates archive for finding, uploading, and cloning templates.
 ## Using templates 
 Using existing templates is easy. The first thing you have to do is install the templating tool: 
 ```
-raco pkg install from-template
+raco pkg install new
 ```
 will install the templating tool for you. Then you can download any template you want by running 
 ```
@@ -37,7 +37,7 @@ your template, with the following contents:
  desc "A short description of your template.")
 ```
 
-A good example is [Rosette](https://github.com/racket-templates/racket-templates/blob/main/templates/rosette): 
+A good example is [Rosette](https://github.com/racket-templates/rosette-template): 
 ```
 (name rosette
  repo "racket-templates/rosette-template"
