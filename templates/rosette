@@ -2,4 +2,3 @@
  repo "racket-templates/rosette-template"
  from github
  desc "A #lang rosette template for program verification and synthesis.")
-

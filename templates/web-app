@@ -2,4 +2,3 @@
  repo "racket-templates/web-app"
  from github
  desc "An example of a small 'in production' web-site written in Racket.")
-

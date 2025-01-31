@@ -2,5 +2,3 @@
  repo "racket-templates/ppict-slideshow-template"
  from github
  desc "Example slideshow using ppict")
-
-

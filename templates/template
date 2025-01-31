@@ -2,4 +2,3 @@
  repo "racket-templates/template"
  from github
  desc "A template for creating a new Racket template.")
-

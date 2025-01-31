@@ -1,0 +1,50 @@
+[
+(name cli-command
+ repo "racket-templates/cli-command"
+ from github
+ desc "A working example of CLI command you can use to create your own command line app.")
+(name gui-app
+ repo "racket-templates/gui-app"
+ from github
+ desc "Demonstration gui app for use as a starter template")
+(name lang
+ repo "racket-templates/lang"
+ from github
+ desc "A #lang template - a language of combinators and numeric constants, implemented in Racket.")
+(name library
+ repo "countvajhula/racket-library"
+ from github
+ desc "A project template for a Racket library, using the lib/test/doc organization scheme. This template employs many best practices including automated testing, coverage reporting, and Makefile-driven workflows.")
+(name package
+ repo "racket-templates/package"
+ from github
+ desc "My personal template repository for Racket packages")
+(name ppict-slideshow
+ repo "racket-templates/ppict-slideshow-template"
+ from github
+ desc "Example slideshow using ppict")
+(name project
+ repo "countvajhula/racket-project"
+ from github
+ desc "A project template for a single-collection Racket package. It employs many best practices including automated testing, coverage reporting, and Makefile-driven workflows.")
+(name qi-tutorial
+ repo "countvajhula/qi-tutorial"
+ from github
+ desc "An interactive tutorial for the Qi language.")
+(name raco-command
+ repo "racket-templates/raco-command"
+ from github
+ desc "Raco tool for cloning templates from the racket-templates org")
+(name rosette
+ repo "racket-templates/rosette-template"
+ from github
+ desc "A #lang rosette template for program verification and synthesis.")
+(name template
+ repo "racket-templates/template"
+ from github
+ desc "A template for creating a new Racket template.")
+(name web-app
+ repo "racket-templates/web-app"
+ from github
+ desc "An example of a small 'in production' web-site written in Racket.")
+]

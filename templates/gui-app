@@ -2,4 +2,3 @@
  repo "racket-templates/gui-app"
  from github
  desc "Demonstration gui app for use as a starter template")
-
