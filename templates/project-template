@@ -1,0 +1,4 @@
+(name project-template
+ repo "priime0/raco-new"
+ from github
+ desc "An example of good project structure, including documentation, tests and `.gitignore`")
